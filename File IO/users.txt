@@ -1,0 +1,1 @@
+[{"SerialNo.":1,"firstname":"ahmed","lastname":"shafi","gender==":"MALE","birthdaycheck":"1971-05-03","uname":"","password":"012345","religion":"ISLAM","preadd":"Rajshahi, Bangladesh","peradd":"Rajshahi, Bangladesh","confirmpass":"012345","middlename":"shafin","email":"AHMEDSHAFINSHAFI@GMAIL.COM","phone":"8801738314895","gender":"male"}]
